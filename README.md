@@ -1,2 +1,0 @@
-# zAlam
-My personal repository 
